@@ -10,7 +10,7 @@ public class FirstClass {
         System.out.println("nihao git");
         System.out.println("nihao git");
 
-
+//和卡路里
     }
     public void test(){
         int i = 0;
